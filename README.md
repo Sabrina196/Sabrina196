@@ -9,6 +9,9 @@
 - 🪐 Proximamente estaré subiendo algunos proyectos que iré armando.
 - :speech_balloon: Con muchas ganas de enfocarme, también, en la Ciberseguridad.
 
+[![Gmail](https://img.shields.io/badge/-GMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sabrinapatri96@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/-LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sabrinapatri96/)
+
 ##### Lneguajes que Uso:
 
 ![HTML5](https://img.shields.io/badge/-HTML5-000000?style=flat&logo=html5)
