@@ -1,5 +1,6 @@
 ### Hi there 👋
 
+![SABRINA PATRI (1)](https://user-images.githubusercontent.com/91162957/173135875-77e52f2f-00b7-4e57-ab6f-8492242b95d3.gif)
 
 ##### Hola, Soy Sabrina:
 
