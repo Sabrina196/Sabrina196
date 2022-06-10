@@ -1,6 +1,5 @@
 ### Hi there 👋
 
-https://user-images.githubusercontent.com/91162957/173134814-4b787096-62b0-47ec-a75c-9b067768b906.mp4
 
 ##### Hola, Soy Sabrina:
 
