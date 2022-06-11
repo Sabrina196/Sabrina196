@@ -6,7 +6,8 @@
 
 - 🎓Recién egresada en Análisis de Sistemas del ISFT N°179 "Dr.Carlos Pellegrini" - Moreno, Buenos Aires
 - :test_tube: Capacitandome en .NET 
-- 🪐 Proximamente estaré subiendo algunos proyectos que iré armando.
+- :memo: Proximamente estaré subiendo algunos proyectos que iré armando.
+- :zap: Paso a paso llegando a mis metas.
 - :speech_balloon: Con muchas ganas de enfocarme, también, en la Ciberseguridad.
 
 [![Gmail](https://img.shields.io/badge/-GMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sabrinapatri96@gmail.com)
@@ -15,12 +16,19 @@
 ##### Lneguajes que Uso:
 
 ![HTML5](https://img.shields.io/badge/-HTML5-000000?style=flat&logo=html5)
+![CSS3](https://img.shields.io/badge/-CSS3-000000?style=flat&logo=CSS3)
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-000000?style=flat&logo=bootstrap)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000000?style=flat&logo=javascript)
-![Python](https://img.shields.io/badge/-Python-000000?style=flat&logo=python)
+![C#](https://img.shields.io/badge/-CSharp-000000?style=flat&logo=CSharp)
 ![SQL](https://img.shields.io/badge/-SQL-000000?style=flat&logo=postgresql)
+
+##### Lneguajes con los que he practicado:
+![Python](https://img.shields.io/badge/-Python-000000?style=flat&logo=python)
+![PHP](https://img.shields.io/badge/-PHP-000000?style=flat&logo=php)
 
 ##### Algunas de las tecnologías con las que he trabajado
 
+![ASP.NET](https://img.shields.io/badge/-.NET-000000?style=flat&logo=.NET)
 ![Git](https://img.shields.io/badge/-Git-222222?style=flat&logo=git&logoColor=F05032)
 ![GitHub](https://img.shields.io/badge/-GitHub-222222?style=flat&logo=github&logoColor=181717)
 
