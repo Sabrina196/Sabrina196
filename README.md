@@ -7,7 +7,6 @@
 - 🎓Recién egresada en Análisis de Sistemas del ISFT N°179 "Dr.Carlos Pellegrini" - Moreno, Buenos Aires.
 - :test_tube: Capacitandome en .NET. 
 - :memo: Proximamente estaré subiendo algunos proyectos que iré armando.
-- :zap: Paso a paso llegando a mis metas.
 - :speech_balloon: Con muchas ganas de enfocarme, también, en la Ciberseguridad.
 
 [![Gmail](https://img.shields.io/badge/-GMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sabrinapatri96@gmail.com)
