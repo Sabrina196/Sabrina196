@@ -26,7 +26,7 @@
 ![Python](https://img.shields.io/badge/-Python-000000?style=flat&logo=python)
 ![PHP](https://img.shields.io/badge/-PHP-000000?style=flat&logo=php)
 
-##### Algunas de las tecnologías con las que he trabajado
+##### Algunas de las tecnologías con las que he trabajado:
 
 ![ASP.NET](https://img.shields.io/badge/-.NET-000000?style=flat&logo=.NET)
 ![Git](https://img.shields.io/badge/-Git-222222?style=flat&logo=git&logoColor=F05032)
