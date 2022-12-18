@@ -1,8 +1,8 @@
-### Hi there 👋
+### ¡Hola! 👋
 
 ![SABRINA PATRI (2) (1)](https://user-images.githubusercontent.com/91162957/173136976-967b3843-c024-4683-8a75-75a1cf51db29.gif)
 
-##### Hola, Soy Sabrina:
+##### Soy Sabrina:
 
 - 🎓Recién egresada en Análisis de Sistemas del ISFT N°179 "Dr.Carlos Pellegrini" - Moreno, Buenos Aires.
 - :test_tube: Capacitandome en .NET. 
@@ -12,8 +12,8 @@
 [![Gmail](https://img.shields.io/badge/-GMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sabrinapatri96@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/-LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sabrinapatri96/)
 
-##### Un poco de lo que estoy haciendo:
-https://sabrina196.github.io/Estetica/index.html
+##### Te dejo mi reciente portfolio:
+https://sabrina196.github.io/portfolio/
 
 ##### Lenguajes que Uso:
 
@@ -33,5 +33,3 @@ https://sabrina196.github.io/Estetica/index.html
 ![ASP.NET](https://img.shields.io/badge/-.NET-000000?style=flat&logo=.NET)
 ![Git](https://img.shields.io/badge/-Git-222222?style=flat&logo=git&logoColor=F05032)
 ![GitHub](https://img.shields.io/badge/-GitHub-222222?style=flat&logo=github&logoColor=181717)
-
-
