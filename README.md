@@ -1,3 +1,4 @@
+
 ### ¡Hola a todos! 👋
 
 #### Soy Sabrina:
@@ -8,23 +9,41 @@
 
 - En este momento estoy realizando un sistema de Inventario en ASP.NET v7.
 
- -------------- :point_right: Acá te dejo el Repo [Sistema Inventario](https://github.com/Sabrina196/SistemaInventarioV7:// "Sistema Inventario")
- - :rocket: Proximante le voy hacer un Readme al proyecto .
+------------
+
+:point_right: Acá te dejo el Repo [Sistema Inventario]     				(https://github.com/Sabrina196/SistemaInventarioV7:// "Sistema Inventario")
+:rocket: Proximante le voy hacer un Readme al proyecto .
 
 - Tengo esta otra app realizada en .NET Framework V4.1.
 
- - :point_right: Acá te dejo el Repo [Catálogo de Artículos](https://github.com/Sabrina196/catalogo_de_articulos)
- - :rocket: Proximante le voy hacer un Readme al proyecto .
+------------
+
+
+
+:point_right: Acá te dejo el Repo [Catálogo de Artículos](https://github.com/Sabrina196/catalogo_de_articulos)
+:rocket: Proximante le voy hacer un Readme al proyecto .
 
  :speech_balloon: Con muchas ganas de enfocarme, también, en la Ciberseguridad, que será en otro momento o en otra vida jaja.
 
 ######  Mi Contacto:
+
+------------
+
+
 [![Gmail](https://img.shields.io/badge/-GMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sabrinapatri96@gmail.com)[![LinkedIn](https://img.shields.io/badge/-LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sabrinapatri96/)
 
 ##### Un primer Intento de Portfolio:
+
+------------
+
+
 https://sabrina196.github.io/portfolio/
 
 ##### Lenguajes que Uso:
+
+------------
+
+
 
 ![HTML5](https://img.shields.io/badge/-HTML5-000000?style=flat&logo=html5)
 ![CSS3](https://img.shields.io/badge/-CSS3-000000?style=flat&logo=CSS3)
