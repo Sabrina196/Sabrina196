@@ -1,6 +1,6 @@
-# ### ¡Hola a todos! 👋
+#### ¡Hola a todos! 👋
 
-## ### Soy Sabrina:
+##### Soy Sabrina:
 
 ### 🎓 Soy **Técnica en Análisis de Sistemas** con 6 meses de experiencia y tambien **Desarrolladora Backend en .NET con CSharp** .
 
