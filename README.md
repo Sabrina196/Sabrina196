@@ -4,24 +4,15 @@ Soy Sabrina:
 
  Soy **Técnica en Análisis de Sistemas** con 6 meses de experiencia y tambien **Desarrolladora Backend en .NET con CSharp** .
 
-
  :memo: Un poco de mis proyectos:
 
-
-- En este momento estoy realizando un sistema de Inventario en ASP.NET v7.
-
-:point_right: Acá te dejo el Repo [Sistema Inventario]     				(https://github.com/Sabrina196/SistemaInventarioV7:// "Sistema Inventario")
+:point_right: Acá te dejo el Repo [Sistema Inventario en ASP.NET 7](https://github.com/Sabrina196/SistemaInventarioV7:// "Sistema Inventario")
 :rocket: Proximante le voy hacer un Readme al proyecto .
 
-- Tengo esta otra app realizada en .NET Framework V4.1.
-
-
-
-
-:point_right: Acá te dejo el Repo [Catálogo de Artículos](https://github.com/Sabrina196/catalogo_de_articulos)
+:point_right: Acá te dejo el Repo [Catálogo de Artículos en .NetFramework 4.1](https://github.com/Sabrina196/catalogo_de_articulos)
 :rocket: Proximante le voy hacer un Readme al proyecto .
 
- :speech_balloon: Con muchas ganas de enfocarme, también, en la Ciberseguridad, que será en otro momento o en otra vida jaja.
+:speech_balloon: Con muchas ganas de enfocarme, también, en la Ciberseguridad, que será en otro momento o en otra vida jaja.
 
 
 ####  Un primer Intento de Portfolio:
