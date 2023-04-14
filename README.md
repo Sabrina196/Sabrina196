@@ -1,16 +1,10 @@
-
-
 ### ¡Hola a todos! 👋
 
 #### Soy Sabrina:
 
 🎓 Soy **Técnica en Análisis de Sistemas** con 6 meses de experiencia y tambien **Desarrolladora Backend en .NET con CSharp** .
-:memo:
-1.   :dotnet:
-2.   :csharp:  
-3.   :sql:
 
-####Unordered list (-)
+##### :memo: Un poco de mis proyectos
 
 - En este momento estoy realizando un sistema de Inventario en ASP.NET v7.
 
