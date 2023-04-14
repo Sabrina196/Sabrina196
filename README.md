@@ -1,18 +1,14 @@
+# ### ¡Hola a todos! 👋
 
-### ¡Hola a todos! 👋
+## ### Soy Sabrina:
 
-### Soy Sabrina:
+### 🎓 Soy **Técnica en Análisis de Sistemas** con 6 meses de experiencia y tambien **Desarrolladora Backend en .NET con CSharp** .
 
-🎓 Soy **Técnica en Análisis de Sistemas** con 6 meses de experiencia y tambien **Desarrolladora Backend en .NET con CSharp** .
 
-#### :memo: Un poco de mis proyectos
-
-------------
-
+####  :memo: Un poco de mis proyectos
 
 
 - En este momento estoy realizando un sistema de Inventario en ASP.NET v7.
-
 
 :point_right: Acá te dejo el Repo [Sistema Inventario]     				(https://github.com/Sabrina196/SistemaInventarioV7:// "Sistema Inventario")
 :rocket: Proximante le voy hacer un Readme al proyecto .
@@ -28,18 +24,21 @@
  :speech_balloon: Con muchas ganas de enfocarme, también, en la Ciberseguridad, que será en otro momento o en otra vida jaja.
 
 
-##### Un primer Intento de Portfolio:
+####  Un primer Intento de Portfolio:
 
 https://sabrina196.github.io/portfolio/
 
 ------------
-######  Mi Contacto:
+#### Mi Contacto:
 
 
 [![Gmail](https://img.shields.io/badge/-GMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sabrinapatri96@gmail.com)[![LinkedIn](https://img.shields.io/badge/-LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sabrinapatri96/)
 
 
-##### Lenguajes que Uso:
+------------
+
+
+####  Lenguajes que Uso:
 
 
 
@@ -50,11 +49,11 @@ https://sabrina196.github.io/portfolio/
 ![C#](https://img.shields.io/badge/-CSharp-000000?style=flat&logo=CSharp)
 ![SQL](https://img.shields.io/badge/-SQL-000000?style=flat&logo=postgresql)
 
-##### Lneguajes con los que he practicado:
+#### Lenguajes con los que he practicado:
 ![Python](https://img.shields.io/badge/-Python-000000?style=flat&logo=python)
 ![PHP](https://img.shields.io/badge/-PHP-000000?style=flat&logo=php)
 
-##### Algunas de las tecnologías con las que he trabajado:
+#### Algunas de las tecnologías con las que he trabajado:
 
 ![ASP.NET](https://img.shields.io/badge/-.NET-000000?style=flat&logo=.NET)
 ![Git](https://img.shields.io/badge/-Git-222222?style=flat&logo=git&logoColor=F05032)
