@@ -1,12 +1,12 @@
-### ¡Hola! 👋
+### ¡Hola a todos! 👋
 
-![SABRINA PATRI (2) (1)](https://user-images.githubusercontent.com/91162957/173136976-967b3843-c024-4683-8a75-75a1cf51db29.gif)
+#### Soy Sabrina:
 
-##### Soy Sabrina:
+🎓 Soy **Técnica en Análisis de Sistemas** con 6 meses de experiencia y tambien **Desarrolladora Backend en .NET**.
 
-- 🎓Recién egresada en Análisis de Sistemas del ISFT N°179 "Dr.Carlos Pellegrini" - Moreno, Buenos Aires.
-- :test_tube: Capacitandome en .NET. 
-- :memo: Proximamente estaré subiendo algunos proyectos que iré armando.
+:memo:
+- En este momento estoy realizando un sistema de Inventario en ASP.NET v7.
+		:point_right: Acá te dejo mi re Repo [Sistema Inventario](https://github.com/Sabrina196/SistemaInventarioV7:// "Sistema Inventario")
 - :speech_balloon: Con muchas ganas de enfocarme, también, en la Ciberseguridad.
 
 [![Gmail](https://img.shields.io/badge/-GMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sabrinapatri96@gmail.com)
