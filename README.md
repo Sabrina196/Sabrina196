@@ -4,9 +4,9 @@
 
 🎓 Soy **Técnica en Análisis de Sistemas** con 6 meses de experiencia y tambien **Desarrolladora Backend en .NET**.
 
-:memo:
-- En este momento estoy realizando un sistema de Inventario en ASP.NET v7.
-		:point_right: Acá te dejo mi re Repo [Sistema Inventario](https://github.com/Sabrina196/SistemaInventarioV7:// "Sistema Inventario")
+:memo: En este momento estoy realizando un sistema de Inventario en ASP.NET v7.
+:point_right: Acá te dejo mi re Repo [Sistema Inventario](https://github.com/Sabrina196/SistemaInventarioV7:// "Sistema Inventario")
+
 - :speech_balloon: Con muchas ganas de enfocarme, también, en la Ciberseguridad.
 
 [![Gmail](https://img.shields.io/badge/-GMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sabrinapatri96@gmail.com)
