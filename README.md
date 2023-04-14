@@ -1,16 +1,17 @@
 
+
 ### ¡Hola a todos! 👋
 
 #### Soy Sabrina:
 
 🎓 Soy **Técnica en Análisis de Sistemas** con 6 meses de experiencia y tambien **Desarrolladora Backend en .NET con CSharp** .
 
- :dotnet:    :csharp:   :sql:
+:dotnet:   :csharp:   :sql:
 
 :memo: En este momento estoy realizando un sistema de Inventario en ASP.NET v7.
 
-     :point_right: Acá te dejo el Repo [Sistema Inventario](https://github.com/Sabrina196/SistemaInventarioV7:// "Sistema Inventario")
-     :rocket: Proximante le voy hacer un Readme al proyecto .
+:point_right: Acá te dejo el Repo [Sistema Inventario](https://github.com/Sabrina196/SistemaInventarioV7:// "Sistema Inventario")
+:rocket: Proximante le voy hacer un Readme al proyecto .
 
 :memo: Tengo esta otra app realizada en .NET Framework V4.1.
 
