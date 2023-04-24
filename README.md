@@ -6,7 +6,7 @@ Soy Sabrina:
 
  :memo: Un poco de mis proyectos:
 
-:point_right: Acá te dejo el Repo [Sistema Inventario en ASP.NET 7](https://github.com/Sabrina196/SistemaInventarioV7:// "Sistema Inventario").
+:point_right: Acá te dejo el Repo [Sistema Inventario en ASP.NET 7](https://github.com/Sabrina196/SistemaInventarioV7).
 :rocket: Proximante le voy hacer un Readme al proyecto .
 
 :point_right: Acá te dejo el Repo [Catálogo de Artículos en .NetFramework 4.1](https://github.com/Sabrina196/catalogo_de_articulos)
