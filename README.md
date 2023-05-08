@@ -6,8 +6,10 @@ Soy Sabrina:
 
  :memo: Un poco de mis proyectos:
 
-:point_right: Acá te dejo el Repo [Sistema Inventario en ASP.NET 7](https://github.com/Sabrina196/SistemaInventarioV7).
-:rocket: Proximante le voy hacer un Readme al proyecto .
+:point_right: Acá te dejo la [Guía Completa de .net7 ](https://www.udemy.com/course/guia-completa-aspnet-core-mvc-v31/ "Guía Completa de .net7 "), la cual estoy cursando actualmente. Recomiendo este curso de Udemy porque explica de manera completa y organizada las bases y conocimientos necesarios para poder realizar cualquier proyecto de manera eficiente.
+
+Próximamente, crearé un README para el proyecto que estoy construyendo con este curso. ¡Estén atentos! :rocket:
+
 
 :point_right: Acá te dejo el Repo [Catálogo de Artículos en .NetFramework 4.1](https://github.com/Sabrina196/catalogo_de_articulos)
 
